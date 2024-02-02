@@ -16,7 +16,7 @@
         <java.version>11</java.version>
         <compiler.version>3.8.1</compiler.version>
         <logback.version>1.2.3</logback.version>
-        <springcontext.version>5.2.5.RELEASE</springcontext.version>
+        <springcontext.version>5.2.22.RELEASE</springcontext.version>
     </properties>
 
     <dependencyManagement>
